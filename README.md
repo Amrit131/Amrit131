@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amrit131
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning Web-development at Archis Academy and pursuing a Bachelors degree in Computer Science
+- 🌱 I’m currently learning Web-development.
 - 📫 How to reach me -: amrit.raex@gmail.com
 
 <!---
